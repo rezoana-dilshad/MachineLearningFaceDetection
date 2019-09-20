@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169661894033",
+    "firebase_url": "https://mlfacedetectonline.firebaseio.com",
+    "project_id": "mlfacedetectonline",
+    "storage_bucket": "mlfacedetectonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169661894033:android:e8cacd3a4480901a4b5e30",
+        "android_client_info": {
+          "package_name": "com.rez.mlfacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169661894033-kbqu0gptki1bpggitna5g55cd8tl2cf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rez.mlfacedetection",
+            "certificate_hash": "53c9831d86e944976dc3eb3a9b760543d4633d4b"
+          }
+        },
+        {
+          "client_id": "169661894033-s7c5sa0c12j82cv41itnrjd25rbmfct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAw2Vw2e-qfIpVvpqof65R70r_vzZqN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169661894033-s7c5sa0c12j82cv41itnrjd25rbmfct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
